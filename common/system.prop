@@ -1,1 +1,12 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
 
+##############################
+# MULTI-CORE DEX OPT ENABLED #
+##############################
+
+#LowRamFlag
+ro.config.low_ram=true
+
+#####Cyberdev#####
