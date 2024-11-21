@@ -20,7 +20,7 @@ Sets your system to Low RAM status and tricks your system to believe you have lo
 - Rooted device
 
 ## Changelog
-[View changelog here]([url](https://raw.githubusercontent.com/PS2ClassicsVault/Low-RAM-Flag-Enabler/refs/heads/main/changelog.md))
+[View changelog here](https://raw.githubusercontent.com/PS2ClassicsVault/Low-RAM-Flag-Enabler/refs/heads/main/changelog.md)
 
 
 # WARNING:
