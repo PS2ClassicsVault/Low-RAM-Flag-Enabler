@@ -23,4 +23,4 @@ Sets your system to Low RAM status and tricks your system to believe you have lo
 [View changelog here](https://github.com/PS2ClassicsVault/Low-RAM-Flag-Enabler/blob/main/changelog.md)
 
 # WARNING:
-- This module can bootloop you if your system doesn't suuport the low ram flag natively, We highly recommend you to install a Anti Bootloop magisk module to rescue you from this situation, We believe this flag is not supported on Arm64-v8a devices but is know to work on armeabi-v7a devices
+- This module can bootloop you if your system doesn't suuport the low ram flag natively, We highly recommend you to install a Anti Bootloop magisk module to rescue you from this situation, We believe this flag is not supported on Arm64-v8a devices but is known to work on armeabi-v7a devices
