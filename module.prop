@@ -1,0 +1,7 @@
+id=LowRAMFlagEnabler
+name=Low RAM Flag Enabler
+version=v1.0
+versionCode=1
+author=Cyberdev
+description=Sets your system to Low RAM status and tricks your system to believe you have low ram to use less RAM instead for armeabi-v7a devices (Android 10+)
+support=https://github.com/PS2ClassicsVault/Low-RAM-Flag-Enabler/issues
